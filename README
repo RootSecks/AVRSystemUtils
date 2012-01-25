@@ -1,0 +1,15 @@
+AVRSystemUtils
+
+
+AVRSystemUtils is a set of helper functions 
+for accessing and controlling AVR Microchips.
+
+Include the system_utilities.c file and see 
+the example_program.c file to an idea of how 
+to use it in your program :)
+
+
+Currently contains functions for:
+USART
+ADC
+PWM
